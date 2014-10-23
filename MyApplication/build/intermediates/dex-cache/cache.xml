@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Users\Alexandra\AndroidStudioProjects\MyApplication\app\build\intermediates\pre-dexed\debug\classes-014cafa4ae4c5e196bf16c75534663ad714e1ab6.jar"
+        jar="C:\Users\Alexandra\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+    <item
+        dex="C:\Users\Alexandra\AndroidStudioProjects\MyApplication\app\build\intermediates\pre-dexed\debug\support-annotations-20.0.0-eeb509dd2b70c7cbb582ec7bbb12c1652fd44758.jar"
+        jar="C:\Program Files\Android\android-studio\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+    <item
+        dex="C:\Users\Alexandra\AndroidStudioProjects\MyApplication\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-a796584bdc7319457c8b27a4e3b1775cdee62d32.jar"
+        jar="C:\Users\Alexandra\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+    <item
+        dex="C:\Users\Alexandra\AndroidStudioProjects\MyApplication\app\build\intermediates\pre-dexed\debug\classes-0a2f57c69cdc145bb939cf940917b69a34183331.jar"
+        jar="C:\Users\Alexandra\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef"/>
+
+</pre-dex-items>
