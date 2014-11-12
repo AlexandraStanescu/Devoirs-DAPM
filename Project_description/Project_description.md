@@ -18,8 +18,8 @@ Here is the project map:
  3. The user can publish a message and the others can answer in real-time.
 
 
-All credits reserved to students: 
+All credits and rights reserved to : 
 Maria-Sorina CHITU, Andreea-Madalina PETRISOR, Alexandra STANESCU
 
-Politehnica University of Bucharest, Faculty of Engineering in Foreign Languages
+Politehnica University of Bucharest, Faculty of Engineering in Foreign Languages,
 1241F Group
