@@ -1,0 +1,15 @@
+Model 4 - Functionality:
+
+1. TextView
+   Once you are connected, a message will be displayed:
+   "Hi,<<Username>>!"
+
+2. SearchView - the user can introduce a subject and search it
+
+3. Suggestive image
+
+4. A list of items which includes all the topics - links to the
+   post page, to assure an effective communication between users.
+
+
+ 

@@ -1,0 +1,15 @@
+Model 3- Functionality:
+
+Allows the user to create an account in order to access
+the application.
+
+1. TextView: First Name, Last Name, Username, Password,
+             Retype password
+
+2. EditText - the user must introduce: First Name, 
+           Last Name, Username, Password, Retype password.
+
+3. Two buttons:
+   - Register: to complete the registration process
+   - Back: if the user change his mind, he can return 
+           anytime at the previous page

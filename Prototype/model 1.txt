@@ -1,0 +1,7 @@
+Model 1 - Functionality:
+
+Friendly welcoming environment
+
+Two TextView: 
+ - Welcome to HelpMom!
+ - Say goodbye to all your worries!

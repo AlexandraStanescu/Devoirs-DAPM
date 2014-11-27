@@ -1,0 +1,9 @@
+Model 7 - Functionality:
+
+1. Image with an envelope
+
+2. TextView: Messages List
+
+3. The list of the messages.
+   When the user clicks on the message, he will be
+   redirected towards model6 view.

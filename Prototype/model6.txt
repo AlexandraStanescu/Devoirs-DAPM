@@ -1,0 +1,4 @@
+Model 6 - Functionality:
+
+Here the user can see the entire post.
+He can also leave a comment.

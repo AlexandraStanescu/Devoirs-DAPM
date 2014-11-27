@@ -1,0 +1,14 @@
+Model 2- Functionality:
+
+1. In the first EditText, you must insert your username.
+
+2. In the second EditText, you must insert your password.
+
+3. The first Button "Login" represents the login command. 
+If you want to access your account, after you entered the 
+username and the password you must click to this button.
+
+4. The second Button "Register" gives you the possibility  
+to acces registration form, if you don't have an account. 
+
+

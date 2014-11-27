@@ -1,0 +1,15 @@
+Model 5 - Functionality:
+
+Once the user click on a topic, a new view will 
+appear with:
+
+1. Title of the main topic
+
+2. The list with recent posts
+   The user can acces the post and then he will be directed
+   towards a new view with the entire post. After that he can 
+   leave a message (comment).
+
+3. Button: New post
+   If the user wants to initiate a discussion,he will post his 
+   message.
