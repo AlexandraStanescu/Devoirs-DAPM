@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffe5bf"
+    android:weightSum="1">
+    <ImageView
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView"
+        android:src="@drawable/logo"
+        android:minWidth="50dp"
+        android:minHeight="50dp"
+        android:layout_weight="0.44"
+        android:layout_marginTop="30dp"
+        android:layout_gravity="center_horizontal" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="42dp"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Say goodbye to all your worries!"
+        android:id="@+id/textView11"
+        android:textColor="#ff99001a"
+        android:textSize="20dp"
+        android:textIsSelectable="false"
+        android:layout_marginTop="40dp"
+        android:textAlignment="center"
+        android:layout_gravity="center_horizontal" />
+
+    <Button
+        android:layout_width="174dp"
+        android:layout_height="wrap_content"
+        android:text="Click to continue"
+        android:id="@+id/goToLoginBtn"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="0.12"
+        android:background="#fffbf8ff"
+        android:textColor="#ff99001a" />
+</LinearLayout>
